@@ -27,3 +27,5 @@ Skills: C++/ Python / C / JAVA / HTML / CSS
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/beef-steak)  
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/beef-steak)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
