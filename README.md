@@ -1,4 +1,3 @@
-(https://media.licdn.com/dms/image/D5616AQENkLW9rYa6Og/profile-displaybackgroundimage-shrink_350_1400/0/1693378493514?e=1698883200&v=beta&t=vOXSKT-K3gZ6_MuK_YPfZGEcxnnhKMy2Xh8hFmWL_9I)
 
 ### Hi there 👋, my name is Shahriar
 
