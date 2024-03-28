@@ -2,7 +2,7 @@
 ### Hi there 👋, my name is Shahriar
 
 
-I love to Think.
+I love poetry & song.
 
 Skills: C++ / Python / C / JAVA / HTML / CSS
 
